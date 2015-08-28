@@ -1,2 +1,2 @@
-# open-jurisdictions
-Collection of open municipal jurisdictions
+# open-divisions
+Collection of open municipal divisons geography
